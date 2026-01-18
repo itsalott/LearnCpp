@@ -5,10 +5,6 @@ LearnCpp/.idea/
 Debug/
 Release/
 
-#VS and CMake files
-*.vcxproj
-*.vcxproj.filters
-
 # Prerequisites
 *.d
 
