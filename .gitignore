@@ -2,13 +2,8 @@
 LearnCpp/.idea/
 
 # Build directories
-build/
-Build/
-build-*/
-
-#VS and CMake files
-*.vcxproj
-*.vcxproj.filters
+Debug/
+Release/
 
 # Prerequisites
 *.d
